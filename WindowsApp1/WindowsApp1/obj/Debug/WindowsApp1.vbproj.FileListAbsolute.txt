@@ -1,0 +1,12 @@
+C:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
